@@ -2,6 +2,7 @@ package org.fantasticmao.utilcode.util;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /**
  * @author maokeluo
